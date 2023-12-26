@@ -1,0 +1,14 @@
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfo.cs
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\katya\шарп\Palindrom\bin\Debug\net6.0\Palindrom.exe
+C:\Users\katya\шарп\Palindrom\bin\Debug\net6.0\Palindrom.deps.json
+C:\Users\katya\шарп\Palindrom\bin\Debug\net6.0\Palindrom.runtimeconfig.json
+C:\Users\katya\шарп\Palindrom\bin\Debug\net6.0\Palindrom.dll
+C:\Users\katya\шарп\Palindrom\bin\Debug\net6.0\Palindrom.pdb
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.dll
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\refint\Palindrom.dll
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.pdb
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\Palindrom.genruntimeconfig.cache
+C:\Users\katya\шарп\Palindrom\obj\Debug\net6.0\ref\Palindrom.dll
